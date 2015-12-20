@@ -10,7 +10,7 @@ def sum(n):
 	return ((n*(n+1))/2)
 
 class TestSum(unittest.TestCase):
-	
+
 	def testTheNumberSeven(self):
 		correctSum = 7+6+5+4+3+2+1
 		self.assertEqual(int(sum(7)), correctSum)
