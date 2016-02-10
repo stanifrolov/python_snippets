@@ -20,7 +20,6 @@ def capitalizeSentence(string):
             words[i+1] = words[i+1].capitalize()
     return(words)
 
-
 def main():
     string = input("Give your sentence: ")
     capitalizeSentence(string)
