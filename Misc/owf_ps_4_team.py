@@ -55,6 +55,3 @@ plt.xlabel("V")
 plt.ylabel("B")
 plt.grid()
 plt.show()
-
-
-

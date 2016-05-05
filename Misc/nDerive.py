@@ -24,4 +24,3 @@ def nDerive(input):
 	return True
 
 nDerive(input)
-

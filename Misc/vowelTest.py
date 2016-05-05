@@ -16,7 +16,3 @@ def anti_vowel(text):
 
 
 print anti_vowel(text)
-
-    
-        
-        
