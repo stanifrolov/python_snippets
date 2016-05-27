@@ -1,6 +1,6 @@
 def main():
   number = int(input("give number - 0 for end: "))
-  listOfNumbers =  [number]
+  listOfNumbers = [number]
   while number != 0:
     number = int(input("give number - 0 for end: "))
     listOfNumbers.append(number)
